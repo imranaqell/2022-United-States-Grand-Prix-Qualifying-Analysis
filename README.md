@@ -10,6 +10,5 @@ An analysis was done to find the times lost and gained in each and every part of
 
 **Output**
 
-![SAIvsLEC_USA](https://user-images.githubusercontent.com/93969104/197368536-696a5643-a6d0-46c5-9a77-68cd9f91d83f.png)
+![SAIvsLEC_USA](https://user-images.githubusercontent.com/93969104/197369157-03319319-e75b-434b-bd8e-fce294815c1f.png)
 
-![SAIvsVER_USA](https://user-images.githubusercontent.com/93969104/197368538-eaf37d48-1445-4af6-aa7f-eaaafaefa286.png)
