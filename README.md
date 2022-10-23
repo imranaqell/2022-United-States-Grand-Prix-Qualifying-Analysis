@@ -12,3 +12,4 @@ An analysis was done to find the times lost and gained in each and every part of
 
 ![SAIvsLEC_USA](https://user-images.githubusercontent.com/93969104/197369157-03319319-e75b-434b-bd8e-fce294815c1f.png)
 
+![SAIvsVER_USA](https://user-images.githubusercontent.com/93969104/197369441-11f1ada8-6e6d-49f3-9384-45758fbede7b.png)
